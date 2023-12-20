@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+ a{
+   text-decoration: none;
+   color: black;
+   font-family:Verdana;
+   }
+   h4{
+   text-align: center;
+   font-family:Verdana;
+   color:#8458B3;
+   font-size: 15px;
+   }
+   a:link {
+  	color: #8458B3; 
+	}
+	a:visited {
+  	color: #8458B3;
+	}
+	a:hover {
+  	color: purple; 
+	}
+	body{
+	background:#e5eaf5;}
+
+    nav{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: solid #8458B3;
+    border-radius: 5px;
+    }
